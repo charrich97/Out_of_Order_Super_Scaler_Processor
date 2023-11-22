@@ -1,5 +1,5 @@
 CC = g++
-OPT = -g
+OPT = -g -std=c++11
 WARN = -Wall
 CFLAGS = $(OPT) $(WARN) 
 
